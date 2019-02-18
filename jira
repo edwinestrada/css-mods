@@ -1,0 +1,22 @@
+span.ghx-priority[title="Highest"] {
+    background-color: #ff0000;
+}
+span.ghx-priority[title="High"] {
+    background-color: #ff9a00;
+}
+span.ghx-priority[title="Medium"] {
+    background-color: #f0ff00;
+}
+span.ghx-priority[title="Low"] {
+    background-color: #66CD00;
+}
+span.ghx-priority[title="Lowest"] {
+    background-color: #4C8952;
+}
+span.ghx-priority[title="Highest"] img,
+span.ghx-priority[title="High"] img,
+span.ghx-priority[title="Medium"] img,
+span.ghx-priority[title="Low"] img,
+span.ghx-priority[title="Lowest"] img {
+    opacity: 0;
+}
